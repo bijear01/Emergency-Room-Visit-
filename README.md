@@ -22,10 +22,13 @@ Data Wizardry   Healthcare Data Analyst Portfolio Project
 
 ## Advanced Insights/Analytical Contributions:
 
-    Heat Map of Patient Traffic: Created a time-based heat map that revealed peak hours and days for ER visits, aiding in staff allocation and resource management.
-    Department Referral Patterns: Identified the most common referral departments, such as General Practice (3,399 referrals) and Orthopedics (2,453 referrals), which informed operational priorities and inter-department collaboration.
+    Heat Map of Patient Traffic: Created a time-based heat map that revealed peak hours and days for ER visits, aiding in staff allocation and resource
+    management.
+    Department Referral Patterns: Identified the most common referral departments, such as General Practice (3,399 referrals) and Orthopedics (2,453 referrals),
+    which informed operational priorities and inter-department collaboration.
     Yearly Trends: Analyzed changes in ER visit volume over 4 years (2020-2024), with age-based trends showcasing critical insights for hospital capacity planning.
-    Multidimensional Data Visualization: Built a cohesive dashboard integrating demographics, wait times, satisfaction levels, referral departments, and time-series analysis for actionable insights.
+    Multidimensional Data Visualization: Built a cohesive dashboard integrating demographics, wait times, satisfaction levels, referral departments, and time-series
+    analysis for actionable insights.
 
 # Technical Skills Demonstrated:
 
